@@ -1,6 +1,6 @@
 Developer:
 
-- Elías Robles Montero - B96551
+- Elías Robles Montero.
 
 # Description
 This project it's a Snake game in Python.
